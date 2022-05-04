@@ -1,0 +1,3 @@
+calc.py
+def mul5(x,y) :
+  return (x * y)
